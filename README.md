@@ -36,7 +36,7 @@ This script only works if Steam is currently installed on your system. It requir
 
 # FAQ
 
-### How can I change how *often* the script scans for the ProjectZomboid64 process?
+### Can I change how *often* the script scans for the ProjectZomboid64 process?
 
 ```timeout /t 10``` 
 
