@@ -23,7 +23,7 @@ e.g., the game crashes: it will be restarted automatically.
 
 Unfortunately without modification- this script only supports the Steam version currently. It would not be difficult to add support for other verisons of the game. Feel free to create these on your own accord.
 
-This script only works if Steam is currently installed on your system. It requires Steam because the code is essentially launching a shortcut of the Project Zomboid process.
+This script only works if Steam is currently installed on your system. It requires Steam because the code is essentially launching a shortcut of the Project Zomboid executable.
 
 # Installation
 
