@@ -1,5 +1,5 @@
 # pz-crash-auto-launcher
-Lightweight tool for automatically restarting the Project Zomboid process if it is not found.
+Lightweight tool for automatically restarting the Project Zomboid process if it's not found.
 
 ![pz-logo](https://cdn.discordapp.com/attachments/859209706576805919/892618346481201162/pzautocrash.png)
 # Disclaimer
