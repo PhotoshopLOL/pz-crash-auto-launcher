@@ -9,11 +9,14 @@ echo.
 echo Scanning for process. . .
 timeout /t 10
 
+cls
 tasklist /nh /fi "imagename eq ProjectZomboid64.exe" | find /i "ProjectZomboid64.exe" >nul && (
+echo Project Zomboid process found
 goto :start
 ) || (
+echo Project Zomboid process NOT found, launching game...
+timeout /t 30
 start "" steam://rungameid/108600
 ::credit nurver 2021
 goto :start
 )
-
