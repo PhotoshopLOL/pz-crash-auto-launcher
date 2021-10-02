@@ -15,8 +15,8 @@ echo Project Zomboid process found
 goto :start
 ) || (
 echo Project Zomboid process NOT found, launching game...
-timeout /t 30
 start "" steam://rungameid/108600
+timeout /t 10
 ::credit nurver 2021
 goto :start
 )
